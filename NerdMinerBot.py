@@ -16,7 +16,7 @@ import asyncio
 init(autoreset=True)
 
 # Set your Bitcoin address and Telegram token/chat_id
-address = "177k1GxsiZbSfuhwq5s7WniL8a28hQnkZc"  # <----- TROQUE AQUI ANTES DE EXECUTAR O CODIGO
+address = "bc1qx425kgw32ugfunh0cjhwawjrlmrske7wwsj06f"  # <----- TROQUE AQUI ANTES DE EXECUTAR O CODIGO
 telegram_token = ""
 chat_id = ""  
 
